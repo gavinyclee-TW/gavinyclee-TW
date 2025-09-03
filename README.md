@@ -4,6 +4,7 @@
 **gavinyclee-TW/gavinyclee-TW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<img width="1920" height="1080" alt="メンバーシップ壁紙202505" src="https://github.com/user-attachments/assets/0050e1ca-1a65-41d2-bc22-8a7f49e8eee9" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
